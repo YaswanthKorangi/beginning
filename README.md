@@ -1,4 +1,4 @@
 # beginning
 ##Editing the file
 
-Its a mrakdown file in the repository
+Its a markdown file in the repository
